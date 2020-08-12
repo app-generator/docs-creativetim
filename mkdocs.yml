@@ -1,8 +1,7 @@
-site_name: AppSeed Docs
-site_description: Official Documentation | AppSeed
-site_url: https://docs.appseed.us/
-repo_url: https://github.com/app-generator/docs/
-google_analytics: ['UA-104843706-2', 'docs.appseed.us']
+site_name: CT/AppSeed Docs
+site_description: Official Docs | CT/AppSeed
+site_url: https://docs-creativetim.appseed.us/
+repo_url: https://github.com/app-generator/docs-creativetim/
 
 markdown_extensions:
   - meta
@@ -11,20 +10,12 @@ markdown_extensions:
 
 nav:
 - Sections:  
-  - 'App Generator'        : 'app-generator/index.md'   
-  - 'What Is'              : 'what-is/index.md'   
-  - 'How To'               : 'how-to/index.md'   
-  - 'Tutorials'            : 'tutorials/index.md'   
+  - 'What Is'                : 'what-is/index.md'   
+  - 'How To'                 : 'how-to/index.md'   
+  - 'Tutorials'              : 'tutorials/index.md'   
+  - 'Starters'               : 'boilerplate-code/index.md'   
 
-- Web Apps:  
-  - 'Admin Dashboards'     : 'admin-dashboards/index.md'   
-  - 'Static Sites'         : 'static-site/index.md'   
-  - 'JAMstack'             : 'apps/jamstack/index.md'   
-  - 'Flask Apps'           : 'apps/flask-apps/index.md'   
-
-- Boilerplate Code:  
-  - 'Index (all starters)'           : 'boilerplate-code/index.md'   
-  - 'Flask Boilerplate'              : 'boilerplate-code/flask.md'   
-  - 'Flask Dashboard Boilerplate'    : 'boilerplate-code/flask-dashboard.md'   
-  - 'Django Boilerplate'             : 'boilerplate-code/django.md'   
-  - 'Django Dashboard Boilerplate'   : 'boilerplate-code/django-dashboard.md'   
+- Products:  
+  - 'Black Dashboard Django' : 'products/black-dashboard-django/index.md'   
+  - 'Argon Dashboard Django' : 'products/argon-dashboard-django/index.md'   
+  - 'Material Dashboard Django' : 'products/material-dashboard-django/index.md'   

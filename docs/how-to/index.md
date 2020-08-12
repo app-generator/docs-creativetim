@@ -2,7 +2,7 @@ title: How to do stuff in Programming
 
 # Geek Glossary
 
-How to do stuff in programming, simple guide. 
+How to do stuff in programming, simple guide.
 
 <br />
 
@@ -29,6 +29,8 @@ How to do stuff in programming, simple guide.
 - [Install Pyhton](/how-to/install-python/)
 - [Install Pyhton 3.8 on Ubuntu](/how-to/install-python38-ubuntu/)
 - [Install Flask](/how-to/install-flask/)
+
+<br />
 
 ## Deployments
 
