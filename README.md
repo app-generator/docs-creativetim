@@ -1,6 +1,6 @@
-# [AppSeed Docs](https://docs.appseed.us)
+# [AppSeed/Creative-Tim Docs](https://docs-creative-tim.appseed.us/)
 
-The official documentation repo for all web apps and boilerplate code 
+Related documentation repo for common products
 
 <br />
 
@@ -10,8 +10,8 @@ The project uses [Mkdocs](https://www.mkdocs.org/) to generate the HTML pages fr
 
 ```bash
 $ # Clone Sources
-$ git clone https://github.com/app-generator/docs.git
-$ cd docs
+$ git clone https://github.com/app-generator/docs-creativetim.git
+$ cd docs-creativetim
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -39,7 +39,7 @@ $ # Please visit http://localhost:8000 in browser
 
 Each page provides *Edit on github* shortcut button in the top bar (see below). By clicking on it, the user is redirected to Github and invited to fork, edit the page and make a pull request to notify the owner that the content is updated.
 
-![AppSeed Docs - Edit on Github Option.](https://raw.githubusercontent.com/app-generator/docs/master/static/docs-edit-page-option.jpg)
+![AppSeed Docs - Edit on Github Option.](https://raw.githubusercontent.com/app-generator/docs-creativetim/master/static/docs-edit-page-option.jpg)
 
 The *pull request* triggered by the change will be merged in the documentation after validation.
 
@@ -49,25 +49,7 @@ The *pull request* triggered by the change will be merged in the documentation a
 
 ## Latest Products
 
-- [Flask Dashboard StarAdmin PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-pro.appseed.us/)
-- [Flask Dashboard StarAdmin Black PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-black-pro.appseed.us/)
-- [Flask Dashboard StarAdmin Boxed PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro/) - product help, [LIVE Demo](https://flask-dashboard-staradmin-boxed-pro.appseed.us/)
-
-<br />
-
-## Latest Content Items
-
-- [Flask Boilerplate](https://docs.appseed.us/boilerplate-code/flask/) - Help page
-- [Flask Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/flask/) - Help page
-- [Django Boilerplate](https://docs.appseed.us/boilerplate-code/django/) - Help page
-- [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Help page
-- [Code a simple app in Flask](https://docs.appseed.us/tutorials/flask-understand-flask-code-simple-app/)
-- [Install Python38 on Ubuntu](https://docs.appseed.us/how-to/install-python38-ubuntu/)
-- [Admin Dashboards](https://docs.appseed.us/admin-dashboards/) - the index was updated with new items
-- [Flask Dashboard Black](https://docs.appseed.us/admin-dashboards/flask-dashboard-black/) - product help
-- [Flask Dashboard Argon](https://docs.appseed.us/admin-dashboards/flask-dashboard-argon/) - product help
-- [Flask Dashboard Material](https://docs.appseed.us/admin-dashboards/flask-dashboard-material/) - product help
-- [Flask Dashboard CoreUI](https://docs.appseed.us/admin-dashboards/flask-dashboard-coreui/) - product help
+- ToDO
 
 <br />
 
@@ -97,4 +79,4 @@ markdown_extensions:
 <br />
 
 ---
-[AppSeed Docs](https://docs.appseed.us) - Provided by the [AppSeed](https://appseed.us)
+[AppSeed/Creative-Tim Docs](https://docs-creativetim.appseed.us) - Related help for common products
