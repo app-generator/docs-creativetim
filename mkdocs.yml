@@ -1,0 +1,30 @@
+site_name: AppSeed Docs
+site_description: Official Documentation | AppSeed
+site_url: https://docs.appseed.us/
+repo_url: https://github.com/app-generator/docs/
+google_analytics: ['UA-104843706-2', 'docs.appseed.us']
+
+markdown_extensions:
+  - meta
+  - markdown_include.include:
+      base_path: docs/common
+
+nav:
+- Sections:  
+  - 'App Generator'        : 'app-generator/index.md'   
+  - 'What Is'              : 'what-is/index.md'   
+  - 'How To'               : 'how-to/index.md'   
+  - 'Tutorials'            : 'tutorials/index.md'   
+
+- Web Apps:  
+  - 'Admin Dashboards'     : 'admin-dashboards/index.md'   
+  - 'Static Sites'         : 'static-site/index.md'   
+  - 'JAMstack'             : 'apps/jamstack/index.md'   
+  - 'Flask Apps'           : 'apps/flask-apps/index.md'   
+
+- Boilerplate Code:  
+  - 'Index (all starters)'           : 'boilerplate-code/index.md'   
+  - 'Flask Boilerplate'              : 'boilerplate-code/flask.md'   
+  - 'Flask Dashboard Boilerplate'    : 'boilerplate-code/flask-dashboard.md'   
+  - 'Django Boilerplate'             : 'boilerplate-code/django.md'   
+  - 'Django Dashboard Boilerplate'   : 'boilerplate-code/django-dashboard.md'   

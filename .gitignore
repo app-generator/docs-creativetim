@@ -1,0 +1,6 @@
+
+deploy.js
+node_modules/
+site/
+.vscode/symbols.json
+env/
