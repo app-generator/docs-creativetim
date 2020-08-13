@@ -2,7 +2,7 @@ title: How to deploy Flask on Heroku
 
 # [Django](https://www.djangoproject.com/) Deploy on [Heroku](https://www.heroku.com/)
 
-This page explains how to deploy a [Flask](https://www.palletsprojects.com/p/flask/) application on Heroku, the popular deployment platform.
+This page explains how to deploy a [Django](https://www.djangoproject.com/) application on Heroku, the popular deployment platform.
 
 <br />
 
@@ -56,10 +56,9 @@ To explain the process, we will use a simple Django Boilerplate already enhanced
 
 *Django Boilerplate* is a template codebase used by the **AppSeed** platform to generate Django Web Apps enhanced with a basic set of features:
 
-- UI-Ready, simple codebase
-- SQLite database, Flask-SQLAlchemy ORM
-- Session-Based auth flow (login, register) via Flask-Login
-- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- UI-Ready, Django Native templating
+- [SQLite](https://www.sqlite.org/) database, Native Django ORM
+- Session-Based auth flow (login, register)
 
 As mentioned, the project comes pre-configured for Heroku. The relevant files are listed below:
 
