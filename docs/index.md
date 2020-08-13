@@ -10,8 +10,9 @@ Related documentation repo for common products.
 ## Common products
 ---
 
-> **Latest items**
+> **Django Based**
 
+- [Black Dashboard PRO Django](/products/black-dashboard-pro-django/)
 - [Black Dashboard Django](/products/black-dashboard-django/)
 - [Argon Dashboard Django](/products/argon-dashboard-django/)
 - [Material Dashboard Django](/products/material-dashboard-django/)

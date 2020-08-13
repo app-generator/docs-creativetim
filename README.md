@@ -4,7 +4,7 @@ Related documentation repo for common products (latest items):
 
 - [Black Dashboard PRO Django](https://www.creative-tim.com/product/black-dashboard-pro-django) - commercial product
 - [Black Dashboard Django](https://www.creative-tim.com/product/black-dashboard-pro-django) - free, MIT License
-- [Argon Dashboard Django](https://www.creative-tim.com/product/black-dashboard-pro-django) - free, MIT License
+- [Argon Dashboard Django](https://www.creative-tim.com/product/argon-dashboard-pro-django) - free, MIT License
 
 <br />
 

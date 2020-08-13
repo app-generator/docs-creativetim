@@ -136,7 +136,7 @@ django_heroku.settings(locals())
 - Open a terminal window and authenticate via `heroku login` command
 - Clone the sources and push the project for LIVE deployment
 
-The full command list, executed on our sample project.
+The full command list executed on a sample project provided by the [AppSeed](https://appseed.us) platform.
 
 ```bash
 $ # Get the code
