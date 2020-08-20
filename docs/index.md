@@ -16,3 +16,9 @@ Related documentation repo for common products.
 - [Black Dashboard Django](/products/black-dashboard-django/)
 - [Argon Dashboard Django](/products/argon-dashboard-django/)
 - [Material Dashboard Django](/products/material-dashboard-django/)
+
+<br />
+
+> **Django Based**
+
+- [Argon Dashboard Flask](/products/argon-dashboard-flask/)

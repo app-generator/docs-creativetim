@@ -77,9 +77,9 @@ $ git version 2.10.1.windows.1 # <--- All good
 For more information on how to set up your environment please access the resources listed below. In case we've missed something, contact us on Discord.
 
 - [How to set up Python](/how-to/install-python)
-- [Setup CentOS for development](/how-to/setup-centos-for-development/)
-- [Setup Ubuntu for development](/how-to/setup-ubuntu-for-development/)
-- [Setup Windows for development](/how-to/setup-windows-for-development/)
+- [Setup CentOS for development](./setup-centos-for-development/)
+- [Setup Ubuntu for development](./setup-ubuntu-for-development/)
+- [Setup Windows for development](./setup-windows-for-development/)
 
 <br />
 
