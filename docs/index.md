@@ -22,3 +22,4 @@ Related documentation repo for common products.
 > **Django Based**
 
 - [Argon Dashboard Flask](/products/argon-dashboard-flask/)
+- [Black Dashboard Flask](/products/black-dashboard-flask/)
