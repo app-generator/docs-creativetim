@@ -19,7 +19,8 @@ Related documentation repo for common products.
 
 <br />
 
-> **Django Based**
+> **Flask Based**
 
 - [Argon Dashboard Flask](/products/argon-dashboard-flask/)
 - [Black Dashboard Flask](/products/black-dashboard-flask/)
+- [Material Dashboard Flask](/products/material-dashboard-flask/)
