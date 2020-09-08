@@ -10,17 +10,22 @@ Related documentation repo for common products.
 ## Common products
 ---
 
-> **Django Based**
+> **Django Based PRO**
 
 - [Black Dashboard PRO Django](/products/black-dashboard-pro-django/)
+
+> **Django Based FREE**
+
 - [Black Dashboard Django](/products/black-dashboard-django/)
 - [Argon Dashboard Django](/products/argon-dashboard-django/)
 - [Material Dashboard Django](/products/material-dashboard-django/)
+- [Paper Dashboard Flask](/products/paper-dashboard-django/)
 
-<br />
+> **Flask Based PRO**
 
-> **Flask Based**
+> **Flask Based FREE**
 
 - [Argon Dashboard Flask](/products/argon-dashboard-flask/)
 - [Black Dashboard Flask](/products/black-dashboard-flask/)
 - [Material Dashboard Flask](/products/material-dashboard-flask/)
+- [Paper Dashboard Flask](/products/paper-dashboard-flask/)
