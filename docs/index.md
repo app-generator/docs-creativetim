@@ -13,6 +13,7 @@ Related documentation repo for common products.
 > **Django Based PRO**
 
 - [Black Dashboard PRO Django](/products/black-dashboard-pro-django/)
+- [Argon Dashboard PRO Django](/products/argon-dashboard-pro-django/)
 
 > **Django Based FREE**
 
