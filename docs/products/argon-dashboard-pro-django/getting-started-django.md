@@ -1,5 +1,5 @@
 ---
-title: Black Dashboard PRO Django
+title: Argon Dashboard PRO Django
 ---
 
 # [Argon Dashboard PRO Django](https://www.creative-tim.com/product/argon-dashboard-pro-django)
@@ -14,7 +14,7 @@ Argon Dashboard Django is a free Bootstrap 4 Admin Template for Django - Feature
 
 > **Links**
 
-- [Argon Dashboard PRO Django](https://www.creative-tim.com/product/argon-dashboard-django) - product page
+- [Argon Dashboard PRO Django](https://www.creative-tim.com/product/argon-dashboard-pro-django) - product page
 - [Argon PRO Django Demo](https://www.creative-tim.com/live/argon-dashboard-pro-django) - LIVE App, default login credentials ** *test / ApS12_ZZs8* **
 - [Argon PRO Django Repository](https://github.com/creativetimofficial/ct-argon-dashboard-pro-django) - Used for issues reporting
 - Tutorials
